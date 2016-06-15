@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NFC_Tickets</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="loginUser">Nombre de Usuario:</string>
+    <string name="loginPass">Contraseña:</string>
+    <string name="name">Nombre:</string>
+    <string name="cedula">Cédula:</string>
+    <string name="loginButton">Iniciar Sesión</string>
+    <string name="register">Registrar</string>
+    <string name="registerButton">Registrarse</string>
+
+
+</resources>
